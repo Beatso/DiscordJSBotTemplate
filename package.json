@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Beatso/DiscordJSBotTemplate#readme",
   "dependencies": {
-    "discord.js": "^12.5.1",
+    "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
     "express": "^4.17.1"
   }
